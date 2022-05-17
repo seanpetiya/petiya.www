@@ -1,0 +1,175 @@
+/*begin:main*/
+div.base-nav-container {
+    left: 0;
+    width: 100%;
+    background-color: #222;
+}
+
+nav.base-nav {
+    font-size: 0.8em;
+    background-color: #222;
+    padding: 3px 6px;
+    border-bottom: 1px solid #666;
+    color: #888;
+    text-align: right;
+    position: relative;
+    width: 100%;
+    font-family: sans-serif;
+    position:absolute;
+    top:0;
+    z-index:999999;
+}
+
+nav.base-nav ul {
+    list-style-type: none;
+    margin: 0;
+}
+
+nav.base-nav ul li {
+    display: inline;
+}
+
+nav.base-nav ul li a {
+    text-decoration: none;
+    padding: 0 3px;
+    color: #888;
+}
+
+nav.base-nav ul li a:hover {
+    color: #fefefe;
+}
+
+/*end:main*/
+
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+img.profile {
+    border: 1px solid #ddd;
+    margin: 6px;
+    padding: 6px;
+    width: 100%;
+    max-width: 200px;
+    min-width: 125px;
+    height: auto;
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.333);
+}
+
+@media (max-width: 770px) {
+    img.profile {
+        width: 50%;
+        margin: 0 auto;
+    }
+}
+
+/* begin: splash */
+
+body,
+html {
+    margin: 0;
+    color: #ececec;
+    font-family: 'Raleway', sans-serif;
+}
+
+#bg {
+    position: fixed;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+}
+
+#bg img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    min-width: 50%;
+    min-height: 50%;
+}
+
+#bg-circle {
+    position: fixed;
+    top: 50;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+}
+
+#bg-circle img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    min-width: 680px;
+    min-height: 680px;
+    max-width: 680px;
+    max-height: 680px;
+    opacity: 0.6;
+}
+
+#content-wrap {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    min-width: 680px;
+    min-height: 680px;
+}
+
+
+#content {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    width: 420px;
+    height: 420px;
+    opacity: 0.75;
+}
+
+#content h1 {
+    font-weight: 200;
+    font-size: 5em;
+    margin: 0;
+    padding: 0;
+    white-space: nowrap;
+    letter-spacing: -1px;
+}
+
+#content h2 {
+    font-weight: 200;
+    font-size: 2.6em;
+    margin: 0;
+    padding: 0;
+    white-space: nowrap;
+    letter-spacing: -1px;
+}
+
+#content a {
+    font-family: 'Raleway Dots', Sans-Serif;
+    color: #ececec;
+    font-size: 3.3em;
+    text-decoration: none;
+    margin-top: 21px;
+    display: block;
+    margin-top: 24px;
+    padding-top: 12px;
+    border-top: 1px solid #ececec;
+}
+
+#content a:hover {
+    color: #f7b0ac;
+}
+
+/* end: splash */
