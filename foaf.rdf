@@ -15,7 +15,7 @@
     <dcterms:modified>2023-05-16</dcterms:modified>
     <foaf:primaryTopic rdf:resource="http://sean.petiya.com/#me"/>
     <rdfs:seeAlso rdf:resource="http://sean.petiya.tel"></rdfs:seeAlso>
-</foaf:PersonalProfileDocument>
+  </foaf:PersonalProfileDocument>
   
   <foaf:Person rdf:about="http://sean.petiya.com/#me">
 
