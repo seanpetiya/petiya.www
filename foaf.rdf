@@ -11,16 +11,16 @@
       xmlns:schema="http://schema.org/">
   
   <foaf:PersonalProfileDocument rdf:about="https://sean.petiya.com/foaf.rdf">
-    <dc:title>Sean Petiya | FOAF</dc:title>
-    <dcterms:modified>2023-05-16</dcterms:modified>
-    <foaf:primaryTopic rdf:resource="http://sean.petiya.com/#me"/>
-    <rdfs:seeAlso rdf:resource="http://sean.petiya.tel"></rdfs:seeAlso>
+    <dc:title>Sean Petiya (FOAF)</dc:title>
+    <dcterms:modified>2023-05-29</dcterms:modified>
+    <foaf:primaryTopic rdf:resource="https://sean.petiya.com/#me"/>
+    <rdfs:seeAlso rdf:resource="http://petiya.tel"></rdfs:seeAlso>
   </foaf:PersonalProfileDocument>
   
-  <foaf:Person rdf:about="http://sean.petiya.com/#me">
+  <foaf:Person rdf:about="https://sean.petiya.com/#me">
 
     <foaf:name>Sean Petiya</foaf:name>
-    <foaf:homepage rdf:resource="http://sean.petiya.com"/>
+    <foaf:homepage rdf:resource="https://sean.petiya.com"/>
     <foaf:skypeID>sean.petiya</foaf:skypeID>
     <foaf:img rdf:resource="http://2.gravatar.com/avatar/c96262bf99a02f2d5825e53d0c56f2fa"></foaf:img>
     <foaf:mbox_sha1sum>ce6428a2c1f7eb8d7c9b6d738ac1d68dd55d05b3</foaf:mbox_sha1sum>
@@ -28,7 +28,7 @@
     <!-- SAMEAS -->
 
     <owl:sameAs rdf:resource="http://dblp.uni-trier.de/pers/p/Petiya:Sean"></owl:sameAs>
-    <owl:sameAs rdf:resource="http://orcid.org/0000-0001-5704-1346"></owl:sameAs>
+    <owl:sameAs rdf:resource="https://orcid.org/0000-0001-5704-1346"></owl:sameAs>07 Gambit Stage.vgz
     <owl:sameAs rdf:resource="http://plus.google.com/+SeanPetiya"></owl:sameAs>
     <owl:sameAs rdf:resource="http://researcherid.com/rid/J-6069-2014"></owl:sameAs>
     <owl:sameAs rdf:resource="https://sean.petiya.com/#me"></owl:sameAs>
