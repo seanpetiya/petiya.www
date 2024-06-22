@@ -12,7 +12,7 @@
   
   <foaf:PersonalProfileDocument rdf:about="https://sean.petiya.com/foaf.rdf">
     <dc:title>Sean Petiya (FOAF)</dc:title>
-    <dcterms:modified>2023-05-29</dcterms:modified>
+    <dcterms:modified>2024-05-29</dcterms:modified>
     <foaf:primaryTopic rdf:resource="https://sean.petiya.com/#me"/>
     <rdfs:seeAlso rdf:resource="http://petiya.tel"></rdfs:seeAlso>
   </foaf:PersonalProfileDocument>
