@@ -12,7 +12,7 @@
   
   <foaf:PersonalProfileDocument rdf:about="https://sean.petiya.com/foaf.rdf">
     <dc:title>Sean Petiya (FOAF)</dc:title>
-    <dcterms:modified>2024-05-29</dcterms:modified>
+    <dcterms:modified>2025-01-24</dcterms:modified>
     <foaf:primaryTopic rdf:resource="https://sean.petiya.com/#me"/>
     <rdfs:seeAlso rdf:resource="http://petiya.tel"></rdfs:seeAlso>
   </foaf:PersonalProfileDocument>
@@ -33,7 +33,7 @@
     <owl:sameAs rdf:resource="http://researcherid.com/rid/J-6069-2014"></owl:sameAs>
     <owl:sameAs rdf:resource="https://sean.petiya.com/#me"></owl:sameAs>
     <owl:sameAs rdf:resource="https://sapetiya.people.ysu.edu/#me"></owl:sameAs>
-    <owl:sameAs rdf:resource="http://personal.kent.edu/~spetiya1/#me"></owl:sameAs>
+    <owl:sameAs rdf:resource="https://www.personal.kent.edu/~spetiya1/#me"></owl:sameAs>
     <owl:sameAs rdf:resource="https://www.wikidata.org/wiki/Q59686738"></owl:sameAs>
     
     <!-- ACCOUNTS -->
